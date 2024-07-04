@@ -1,4 +1,4 @@
-name: 拉取镜像${{ github.event.inputs.IMAGE_NAME }}推送
+name: 拉取镜像推送
 
 on:
   workflow_dispatch:
